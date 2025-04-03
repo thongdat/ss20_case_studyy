@@ -1,0 +1,5 @@
+thông đạt, 1,000,000,000.00, 1, Manager, 12.00
+cẩm tú, 12,000,000.00, 2, Manager, 13.00
+tuấn anh , 1,000,000.00, 3, Developer, java
+minh sang, 120,000,000.00, 4, Manager, 14.00
+cẩm tú, 123,323,231.00, 5, Developer, C
